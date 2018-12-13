@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "Sep6_Task2.auto.manifest"
