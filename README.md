@@ -7,3 +7,5 @@ Four modes included.
 4.reset
 
 Really intresting
+
+External experiment settings are needed
